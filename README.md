@@ -13,7 +13,6 @@ Write a complete, compilable C program that calculates the **perimeter** of a re
 
 If the unit is **'c'**, convert the area from square meters to square centimeters and the perimeter from meters to centimeters:
 
-- **1 m² = 10,000 cm²**  
 - **1 m = 100 cm**
 
 ## Input Requirements
@@ -34,7 +33,7 @@ If the unit is **'c'**, convert the area from square meters to square centimeter
 Display area and perimeter in (m for meters, c for centimeters): c
 Enter the length (in meters): 4.5
 Enter the width (in meters): 2.3
-The perimeter of the rectangle is 1,360.00 cm.
+The perimeter of the rectangle is 1360.00 cm.
 ```
 
 ## Notes
