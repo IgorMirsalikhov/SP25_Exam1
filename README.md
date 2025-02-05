@@ -30,7 +30,7 @@ If the unit is **'c'**, convert the area from square meters to square centimeter
 ## Sample Input and Output
 
 ```
-Display area and perimeter in (m for meters, c for centimeters): c
+Display perimeter in (m for meters, c for centimeters): c
 Enter the length (in meters): 4.5
 Enter the width (in meters): 2.3
 The perimeter of the rectangle is 1360.00 cm.
