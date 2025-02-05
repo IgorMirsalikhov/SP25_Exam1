@@ -4,8 +4,8 @@
 
 Write a complete, compilable C program that calculates the **perimeter** of a rectangle. The program should prompt the user to input a character representing the **unit of measurement**, the **length** and **width** (in meters):
 
-- **'m'** for square meters (m²) and meters (m) for perimeter
-- **'c'** for square centimeters (cm²) and centimeters (cm) for perimeter
+- **'m'** for meters
+- **'c'** for centimeters
 
 ## Formula
 
