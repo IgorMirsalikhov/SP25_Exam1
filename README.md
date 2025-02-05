@@ -11,7 +11,7 @@ Write a complete, compilable C program that calculates the **perimeter** of a re
 
 - **Perimeter = 2 × (Length + Width)**
 
-If the unit is **'c'**, convert the area from square meters to square centimeters and the perimeter from meters to centimeters:
+If the unit is **'c'**, convert the perimeter from meters to centimeters:
 
 - **1 m = 100 cm**
 
